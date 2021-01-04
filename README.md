@@ -12,11 +12,11 @@ Some of the options available for the customers to view on this site are:
 [Foodsy](https://xd.adobe.com/view/d233648a-ac93-410c-b706-989ca46649ce-8760/)
 
 ## Foodsy Menu
-1. Vegan Caesar Salad Dressing      $12
-2. Parmesan Baked Bacon Sprouts     $18
-3. Spicy Southwest Bean Salad       $12
-4. Honey Ginger Tuna Steaks         $16
-5. Grilled Romaine Caesar Salad     $12
-6. Beef with Shrimp Sauce           $18
-7. Fried & Breaded Calamari Rings   $12
-8. Spicy Grilled Fish Fillet        $16
+1. Vegan Caesar Salad Dressing:      $12
+2. Parmesan Baked Bacon Sprouts:     $18
+3. Spicy Southwest Bean Salad:       $12
+4. Honey Ginger Tuna Steaks:         $16
+5. Grilled Romaine Caesar Salad:     $12
+6. Beef with Shrimp Sauce:           $18
+7. Fried & Breaded Calamari Rings:   $12
+8. Spicy Grilled Fish Fillet:        $16
